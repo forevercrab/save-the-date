@@ -1,0 +1,1 @@
+import{o as a,c as t,a as e}from"./index-5305cf1a.js";const o={class:"grid grid-cols-8 gap-2"},r={class:"col-span-8 p-8 pb-12 border-b border-black"},c=["innerHTML"],l={__name:"Rsvp",props:["data"],setup(s){return(n,p)=>(a(),t("div",o,[e("p",r,[e("span",{innerHTML:s.data.rsvp.header,class:"text-lg"},null,8,c)])]))}};export{l as default};
